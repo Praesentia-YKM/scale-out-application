@@ -1,7 +1,6 @@
 # scale-out-application
 스프링부트 기반 애플리케이션을 Scale-Out하는 프로젝트 [ MSA/EDA ]
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-green.svg)
 ![Java](https://img.shields.io/badge/Java-21-orange.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)
